@@ -14,7 +14,6 @@ public class CreateContactsTest extends BaseClass{
 @Test(retryAnalyzer = com.crm.genericUtilities.RetryAnalyserImptn.class)
 	public void createContactTest() throws Throwable{
 		
-		//hiiiii
 		//To get random number
 		int randNum = jLib.getRandomNumber();
 		
